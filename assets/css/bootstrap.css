@@ -1314,10 +1314,10 @@ mark,
   text-align: left;
 }
 .text-right {
-  text-align: right;
+  text-align: left;
 }
 .text-center {
-  text-align: right;
+  text-align: center;
 }
 .text-justify {
   text-align: justify;

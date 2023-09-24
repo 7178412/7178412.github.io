@@ -820,8 +820,8 @@ input::-ms-input-placeholder {
     margin-bottom: 0px;
 }
 .main_service .head_title h2{
-    margin-right: 12%;
-    border-right: 6px solid #e74c3c;
+    margin-left: 12%;
+    border-left: 6px solid #e74c3c;
     color:#fff;
     padding-right: 5%;
 }
@@ -835,7 +835,7 @@ input::-ms-input-placeholder {
 }
 
 .main_service .single_service.single_service_text {
-    margin-right:0px;
+    margin-left:0px;
     background: #005213;
 }
 .main_service .single_service.single_service_text .single_service_icon i{
