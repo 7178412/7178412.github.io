@@ -152,7 +152,7 @@ h5 {
     line-height: 2rem;
 }
 h1 {
-    font-family: 'Rufina',serif;
+    font-family: 'Lora',serif;
     font-weight: 700;
     font-size: 5.143rem;
     line-height: 5.5rem;
@@ -160,7 +160,7 @@ h1 {
     letter-spacing: .4rem;
 }
 h2 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-size:2.571rem;
     line-height: 3rem;
     text-transform: uppercase;
@@ -168,14 +168,14 @@ h2 {
 
 }
 h3 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-size:1.714rem;
     line-height: 2.5rem; 
     color:#fff;
     font-weight: 400;
 }
 h4 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-weight: 600;
     font-size: 1.286rem;
     line-height: 2rem;
@@ -820,7 +820,7 @@ input::-ms-input-placeholder {
     margin-bottom: 0px;
 }
 .main_service .head_title h2{
-    margin-left: 12%;
+    margin-left: 7%;
     border-left: 6px solid #e74c3c;
     color:#fff;
     padding-right: 5%;
@@ -835,7 +835,7 @@ input::-ms-input-placeholder {
 }
 
 .main_service .single_service.single_service_text {
-    margin-left:0px;
+    margin-right:0px;
     background: #005213;
 }
 .main_service .single_service.single_service_text .single_service_icon i{
@@ -860,7 +860,7 @@ input::-ms-input-placeholder {
 }
 .main_service .single_service.single_service_text .single_service_right_text p{
     color:#999999;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Lora', sans-serif;
     font-weight: 400;
 }
 /*======================================================================
