@@ -774,11 +774,11 @@ input::-ms-input-placeholder {
 .main_feature{}
 .main_feature .single_feature{}
 .main_feature .single_feature:hover .single_feature_icon{
-    border-color:#e74c3c;
-    transform: rotate(45deg);
+   /* border-color:#e74c3c;
+    transform: rotate(45deg);*/
 }
 .main_feature .single_feature:hover .single_feature_icon i{
-    transform: rotate(-45deg);
+    /* transform: rotate(-45deg);*/
 }
 .main_feature .single_feature:hover h4{
     color:#e74c3c;
@@ -998,7 +998,7 @@ button.btn-md:hover {
     height: 60px;
     line-height: 60px;
     color:#fff;
-    transform: rotate(45deg);
+    /*transform: rotate(45deg);*/
     margin: 30px auto;
 }
 .single_study_text .s_study_icon i{
