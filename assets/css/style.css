@@ -9,7 +9,7 @@ Author URI: http://bootstrapthemes.co
    ========================================================================== */
 html,
 body {
-    background-color: #e9dcc9;
+    background-color: #ebdecf;
     font-size: 14px;
     color: #797979;
     width: 100%;
@@ -304,7 +304,7 @@ ul{
 /*
 Separator
 */
-.separator {
+/*.separator {
     width: 10px;
     height: 10px;
     margin: 20px auto;
@@ -354,7 +354,7 @@ Separator
     width: 30px;
     margin:20px 0px;
     background: #f38181;
-}
+}*/
 
 
 .divider{
@@ -383,8 +383,8 @@ Button
 .btn-primary.disabled,
 .btn-primary.disabled:hover {
     color: #ffffff;
-    background-color: #e74c3c;
-    border-color: #e74c3c;
+    background-color: #ae612f;
+    border-color: #ae612f;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open>.dropdown-toggle.btn-primary {
     color: #fff;
@@ -420,11 +420,11 @@ Button
     padding: 1.125rem 3rem;
 }
 .btn-default:hover{
-    background: #e74c3c;
-    border:1px solid #e74c3c;
+    background: #ae612f;
+    border:1px solid #ae612f;
 }
 .btn-lg{
-    background: #e74c3c;
+    background: #ae612f;
     padding: 1.125rem 3rem;
 }
 .btn-md{
@@ -975,7 +975,7 @@ button.btn-md:hover {
                     Study Section Css
 ==========================================================================*/
 .study{
-    background: #f4f5f9;
+    background: #ebdecf;
 }
 .main_study_area{
     overflow: hidden;
