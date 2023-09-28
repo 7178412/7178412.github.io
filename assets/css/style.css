@@ -279,8 +279,8 @@ ul{
 .heading {
     margin-bottom: 4rem;
 }
-/*.overlay {
-    background-color: rgba(41, 39, 34, 0.75);
+.overlay {
+    background-color: rgba(31, 29, 24, 0.65);
     width: 100%;
     height: 100%;
 }
