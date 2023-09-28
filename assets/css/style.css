@@ -53,7 +53,7 @@ img {
     -ms-user-select: none;
     user-select: none;
     -webkit-user-drag: none;
-    user-drag: none;
+    user-zoom: none;
 }
 a,
 a:hover,
@@ -338,7 +338,7 @@ Separator
     content:"";
     display: inline-block;
     margin-right: 20px;*/
-}
+
 .separator2 {
     height: 4px;
     width:40px;
@@ -577,7 +577,7 @@ input::-ms-input-placeholder {
     color:#e74c3c;
     background: transparent;
 }
-.main_menu_bg .navbar {}
+
 
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
     color: #ae612f;
@@ -776,15 +776,12 @@ input::-ms-input-placeholder {
             Feature section Style
 ====================================================================*/
 
-.main_feature{}
-.main_feature .single_feature{}
-.main_feature .single_feature:hover .single_feature_icon{
-   /* border-color:#e74c3c;
-    transform: rotate(45deg);*/
-}
-.main_feature .single_feature:hover .single_feature_icon i{
-    /* transform: rotate(-45deg);*/
-}
+
+
+
+
+
+
 .main_feature .single_feature:hover h4{
     color:#e74c3c;
 }
@@ -808,9 +805,9 @@ input::-ms-input-placeholder {
 /*==================================================================
             History section Style
 ====================================================================*/
-.main_history{
 
-}
+
+
 .main_history .single_history_content .head_title h2{
     border-left:6px solid #192424;
     padding-left: 30px;
@@ -1118,10 +1115,6 @@ button.btn-md:hover {
 .pricing_body{
     background: #fff5f3;
     padding: 95px 0px 25px 0px;
-}
-.single_pricing ul{
-
-
 }
 .single_pricing ul li{
     line-height:45px;
