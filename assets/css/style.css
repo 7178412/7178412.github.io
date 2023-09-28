@@ -1410,7 +1410,7 @@ li .single_team_text p{
                         Trail Section 
 ======================================================================*/
 .main_trial_area{
-   /* background: url(../images/trailbg.jpg) no-repeat top center;*/
+   background: url(../images/trailbg.jpg) no-repeat top center;
     overflow: hidden;
     background-size: cover;
     background-color: #fff5f3;
@@ -1436,7 +1436,7 @@ li .single_team_text p{
                         footer section
 ===================================================================*/
 .footer{
-    background: #000000;
+    background: #192424;
 }
 .main_footer{
     overflow: hidden;
