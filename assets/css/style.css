@@ -152,7 +152,7 @@ h5 {
     font-size:1.rem;
     font-weight: 700;
     margin: 0;
-    line-height: 2rem;
+    line-height: 0rem;
 }
 h1 {
     font-family: 'Lora',serif;
@@ -407,7 +407,7 @@ Button
     margin-top: 20px;
     transition: .5s;
     border: 1px solid #ae612f;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lora', serif;
     font-weight: 700;
     padding: 0.8rem 3rem;
     transition: all 0.6s;
@@ -812,7 +812,7 @@ input::-ms-input-placeholder {
 
 }
 .main_history .single_history_content .head_title h2{
-    border-left:6px solid #e74c3c;
+    border-left:6px solid #192424;
     padding-left: 30px;
 }
 
@@ -825,8 +825,8 @@ input::-ms-input-placeholder {
     margin-bottom: 0px;
 }
 .main_service .head_title h2{
-    margin-left: 9%;
-    border-left: 6px solid #ae612f;
+    margin-left: 7%;
+    /*border-left: 6px solid #ae612f;*/
     color:#fff5f3;
     padding-right: 5%;
 }
@@ -1101,7 +1101,7 @@ button.btn-md:hover {
     width: 150px;
     height: 150px;
     margin:0 auto;
-    padding: 65px 0px;
+    padding: 42px 0px;
     /*border-radius: 50%;*/
     /*box-shadow: 0px 0px 0px 10px rgba(244,245,249,0.3);*/
 }
@@ -1117,7 +1117,7 @@ button.btn-md:hover {
 }
 .pricing_body{
     background: #fff5f3;
-    padding: 60px 0px 80px 0px;
+    padding: 95px 0px 25px 0px;
 }
 .single_pricing ul{
 
@@ -1132,7 +1132,7 @@ button.btn-md:hover {
 }
 
 .single_pricing a{
-    margin-top:110px;
+    margin-top:85px;
 }
 
 
